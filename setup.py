@@ -9,8 +9,8 @@ setup(
     ],
     description="Модуль взаимодействия с Redis",
     author="Дмитрий Прокофьев",
-    author_email="your_email@example.com",
-    url="https://github.com/yourusername/my_package",  # Ссылка на репозиторий (если есть)
+    author_email="",
+    url="https://github.com/DmitryProkofev/redis_package.git",  # Ссылка на репозиторий (если есть)
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
